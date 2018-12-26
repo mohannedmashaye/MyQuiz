@@ -10,7 +10,7 @@ int main()
 //just prints a nice white space line
 cout<<endl;
 //declare MOHANNED object and set characteristics
-MOHANNED m("5'10", "Somali", "Carleton University", "Journaling, Meditation, Exercise & Coding", 20);
+MOHANNED m("5'10", "Somali", "Carleton University", "Exercise & Coding", 20);
 //called menu, which printed the options 
 m.menu();
 //THEN, i called the distinguishing funciton infoMo and looped the questions, when user enters 6, program terminates.
